@@ -5,6 +5,8 @@
 age-two-2024-05-27-18_20_46](https://github.com/Kamalesh199930/navbar-sass/assets/154793294/da710a6e-e7e5-4a68-8b68-4e53f1db267d)
 
 
+file:///home/kamaleshm/Downloads/screencapture-localhost-3000-page-two-2024-05-27-18_20_24.png
+![screencapture-localhost-3000-2024-05-27-18_20_09](https://github.com/Kamalesh199930/navbar-sass/assets/154793294/f97c9efb-2ac4-47dc-b8b6-02eea55301d7)
 
 
 # Getting Started with Create React App
